@@ -1,0 +1,28 @@
+name: CDU4U
+favicon: null
+layout_spectrum: 0.9707563507836312
+typography_spectrum: 0.8485246484633535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9157471598591655
+  lightness: 0.043061337200924754
+  saturation: 0.6292043291032314
+  rhythmicContrast: 0.41873480239883065
+purpose: []
